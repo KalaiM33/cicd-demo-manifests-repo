@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: todo
-        image: kalaim33/cicd-e2e:10
+        image: kalaim33/cicd-e2e:35
         ports:
         - containerPort: 8000
 
